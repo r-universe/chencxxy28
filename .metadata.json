@@ -2,5 +2,9 @@
   {
     "package": "ELCIC",
     "oncran": true
+  },
+  {
+    "package": "InteRD",
+    "oncran": true
   }
 ]
